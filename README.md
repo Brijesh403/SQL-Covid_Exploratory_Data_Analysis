@@ -1,5 +1,5 @@
 # SQL-Covid_Exploratory_Data_Analysis
-Exploratory data analysis in Microsoft SQL Server of covid data from Feb 2020 to Oct 2022
+##Exploratory data analysis in Microsoft SQL Server of covid data from Feb 2020 to Oct 2022
 ----
 
 Exporatory data analysis of the covide data to practice SQL in Microsoft SQL Server.
@@ -7,14 +7,20 @@ Exporatory data analysis of the covide data to practice SQL in Microsoft SQL Ser
 ## Data  
 Data source : Public data from *Ourworldindata.com* 
 ```
-Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
+Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) 
+- "Coronavirus Pandemic (COVID-19)". 
+Published online at OurWorldInData.org. 
+Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 ```
 
 The date range : February 2020 to October 2022 (61 MB data) 
 
 File Type: csv format
 
-File Content: CSV file consist of *70 columns* which contain information related to Covid numbers reported, GDP, Populations etc. Number of *rows are 2,23,788* from excel files.
+File Content: 
+CSV file consist of *70* *columns* 
+  -which contain information related to Covid numbers reported, GDP, Populations etc.
+Number of *rows* *are* *2,23,788* from excel files.
 
 ## Objective 
   Covid was on of the worst pendemic which hid the world it did impacted many nation in may ways to understand the impact on diffrent country using SQL in Microsoft SQL Server
