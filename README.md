@@ -6,7 +6,7 @@ Exporatory data analysis of the covide data to practice SQL in Microsoft SQL Ser
 
 ## Data  
 Data source : Public data from *Ourworldindata.com* 
-[Data Source](https://ourworldindata.org/covid-deaths)
+ [Data Source](https://ourworldindata.org/covid-deaths)
 ```
 Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) 
 - "Coronavirus Pandemic (COVID-19)". 
