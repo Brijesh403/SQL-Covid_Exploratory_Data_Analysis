@@ -1,5 +1,14 @@
 # SQL-Covid_Exploratory_Data_Analysis
 ## Exploratory data analysis in Microsoft SQL Server of covid data from Feb 2020 to Oct 2022
+
+---------------------------------------------
+### Table of Contents
+1. [Data](README.md#Data)
+2. [Objective](README.md#Objective)
+3. [Processing and Cleaning](README.md#Processing-and-cleaning)
+4. [SQL](README.md#SQL)
+5. [Conclusion and Insights](README.md#Conclusion-and-Insights)
+6. [Visualization](README.md#Visualization)
 ----
 
 Exporatory data analysis of the covide data to practice SQL in Microsoft SQL Server.
@@ -40,7 +49,7 @@ Number of *rows* *are* *2,23,788* from excel files.
      - RegEx
      - CASE statment
 
-## Conclusion 
+## Conclusion and Insights 
 
 The coronavirus disease continues to spread across the world following a trajectory that is difficult to predict. Covid is still not over and if not properly handled can occure more severe sinarios in future.
 
