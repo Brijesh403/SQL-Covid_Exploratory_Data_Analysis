@@ -44,6 +44,9 @@ Number of *rows* *are* *2,23,788* from excel files.
 
 The coronavirus disease continues to spread across the world following a trajectory that is difficult to predict. Covid is still not over and if not properly handled can occure more severe sinarios in future.
 
+* **The future predictions and trend analysis is shown in below Vizualization.**  
+* **According to my prediction the senario of COVID 19 may be resolve around May 2023.**
+
 ## Visualization
 
 To see the Visualization please refer the link below:
